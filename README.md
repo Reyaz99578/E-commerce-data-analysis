@@ -53,7 +53,7 @@ Calculated profit margins across different segments
 Your Name
 📧 REYAZ
 🔗 LinkedIn  |   https://www.linkedin.com/in/reyaz-ansari-b0329a358/
-     GitHub   |   https://github.com/Reyaz99578/E-commerce-data-analysis/edit/main/README.md
+       GitHub   |   https://github.com/Reyaz99578/E-commerce-data-analysis/edit/main/README.md
 
 📄 License
 This project is open source and available under the MIT License.
