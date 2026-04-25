@@ -1,7 +1,6 @@
 🛒 E-Commerce Sales & Profit Analysis Dashboard
 A complete end-to-end E-Commerce Data Analysis project featuring exploratory data analysis (EDA) in Python and an interactive Power BI dashboard for business insights.
 
-📁 Project Structure
 ecommerce-analysis/
 │
 ├── ecommerce_sales_data.csv          # Raw dataset
